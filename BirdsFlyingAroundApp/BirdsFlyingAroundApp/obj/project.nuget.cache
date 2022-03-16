@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/z82JhNhRUJEPrzpiMkl9F8XYv3LPd2z6NRNfTxpU1ITpC0zuMkJRS7hRp4vUcJm4u/2iwIM7RrhQmZF9eVkxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\source\\repos\\C#\\BirdsFlyingAroundApp\\BirdsFlyingAroundApp\\BirdsFlyingAroundApp\\BirdsFlyingAroundApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

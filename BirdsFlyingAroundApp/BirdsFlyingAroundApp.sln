@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirdsFlyingAroundApp", "BirdsFlyingAroundApp\BirdsFlyingAroundApp.csproj", "{16573C24-AE1F-4B66-980C-01978ED17297}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16573C24-AE1F-4B66-980C-01978ED17297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16573C24-AE1F-4B66-980C-01978ED17297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16573C24-AE1F-4B66-980C-01978ED17297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16573C24-AE1F-4B66-980C-01978ED17297}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84765C2C-D6D6-48BC-BD6C-4E61E2DF05C6}
+	EndGlobalSection
+EndGlobal
